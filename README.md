@@ -274,4 +274,8 @@ Bem-vindo ao "Awesome Ideas para Projetos Web"! Este repositório foi criado com
 
 130. **API de Reservas de Voos: Implemente uma API para reservas de voos e itinerários.**
 
+131. **Plataforma de Avaliação de Cursos Online: Desenvolva uma aplicação onde os usuários possam avaliar e revisar cursos online em diferentes áreas**
+
+132. **Sistema de Gerenciamento de Clubes de Livros: Crie uma plataforma para clubes de leitura organizarem suas atividades, discutirem livros, votarem em próximas leituras e compartilharem resenhas e análises literárias.**
+
 Espero que estas ideias inspirem você a criar projetos web interessantes para aprimorar suas habilidades de desenvolvimento. Divirta-se codificando!
